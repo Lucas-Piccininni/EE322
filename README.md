@@ -3,4 +3,4 @@
 ### Subheading 2 
 Markdown is so easy to use
  * **you can bold like this**
- * * *This is italic*
+ * *This is italic*
