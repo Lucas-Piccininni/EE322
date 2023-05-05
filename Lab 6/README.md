@@ -10,3 +10,5 @@ http.js
 
 ![image](https://user-images.githubusercontent.com/98120541/223159305-2e805d95-aab6-4ca1-bc49-6ae79b65951b.png)
 
+Lab 6B:
+![image](https://user-images.githubusercontent.com/98120541/236518855-60b38097-3b5b-47f0-827b-79e8149d0a74.png)
