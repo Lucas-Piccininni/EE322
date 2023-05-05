@@ -1,1 +1,10 @@
-
+![image](https://user-images.githubusercontent.com/98120541/236562985-7556d2b0-fb2c-49a1-a240-88c13d6ed9e3.png)
+![image](https://user-images.githubusercontent.com/98120541/236563058-c984d646-2d87-4d6a-b514-764727eb463f.png)
+![image](https://user-images.githubusercontent.com/98120541/236563139-5c3ec6f4-85b1-4250-b37f-dc0d8a116f3d.png)
+![image](https://user-images.githubusercontent.com/98120541/236563363-164233cc-bf52-4652-b765-2297dd67fcac.png)
+![image](https://user-images.githubusercontent.com/98120541/236563616-2571af48-049f-4a45-969c-9d364b25034e.png)
+![image](https://user-images.githubusercontent.com/98120541/236563661-b904b02f-bf1d-47ba-b065-f505bb356d0c.png)
+![image](https://user-images.githubusercontent.com/98120541/236564362-5323448e-7d4d-42b7-ac75-ba0a8f1cbc03.png)
+![image](https://user-images.githubusercontent.com/98120541/236564620-31ec1901-c5ff-4500-ac79-2f671f127e4c.png)
+![image](https://user-images.githubusercontent.com/98120541/236564729-d45893f6-d472-48bd-aae6-bc2b98503371.png)
+**Lots of commands weren't working because I am in a windows enviornment**
